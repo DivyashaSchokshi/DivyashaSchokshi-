@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Divyasha+S.+Chokshi+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Multi-Agent+Systems+Builder;Founder+%40+Shunrya+%E2%80%94+AI+Consulting;Building+with+Claude%2C+LangChain+%26+LlamaIndex" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Divyasha+S.+Chokshi+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Multi-Agent+Systems+Builder;Learning+in+Public+%40+My+Local+AI+Studio;Building+with+Claude%2C+LangChain+%26+LlamaIndex" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF006E?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Founder%20%40%20Shunrya-8338EC?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building%20a%20Local%20AI%20Studio-8338EC?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to%20Remote%2FHybrid-3A86FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/New%20Jersey%2C%20USA-06D6A0?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -21,24 +21,26 @@
 
 ### 🌟 About Me
 
-I'm a **Machine Learning Engineer & AI Systems Architect** who designs, ships, and operates production-grade **multi-agent LLM pipelines** — not just notebooks. I hold a completed **Master's in Artificial Intelligence & Machine Learning (June 2025)**, and I run **[Shunrya](#-shunrya--independent-ai-consulting)**, an independent AI consulting practice building automation and agentic systems for real clients.
+I started learning AI hands-on by building my own **Local AI Studio** — a personal setup where I could experiment with LLM tools, agent frameworks, and automation instead of just reading about them. That hands-on foundation turned into real skill: designing multi-agent LLM pipelines, working with retrieval systems, and automating workflows end to end.
+
+I hold a completed **Master's in Artificial Intelligence & Machine Learning (June 2025)**, and I'm now exploring turning that skill into an **AI consulting practice** — starting small and real. So far that's meant taking on a couple of early projects: building a piece of custom software and a website from the ground up, using them as proof that I can take an AI/automation idea from concept to something a client can actually use.
 
 My work sits at the intersection of three things most ML portfolios treat separately:
 
 - 🧠 **Applied ML/DL** — from CNNs and NLP pipelines to forecasting and causal inference
-- 🤖 **Agentic AI Engineering** — orchestrated, memory-anchored multi-agent systems using the Claude API, LangChain, and LlamaIndex
-- ⚙️ **Automation Infrastructure** — Make.com / n8n pipelines that turn agent output into deployed, revenue-generating products
+- 🤖 **Agentic AI Engineering** — orchestrated, memory-anchored multi-agent systems using the Claude API, LangChain, and LlamaIndex, built and tested in my Local AI Studio
+- ⚙️ **Automation Infrastructure** — Make.com / n8n workflows that turn agent output into something usable
 
 📍 New Jersey, USA — open to **remote / hybrid** roles only.
 🎯 Currently pursuing **Anthropic AI courses** and interviewing for **AI Engineer / Data Engineer** roles.
 
 ---
 
-### 🧩 Signature Build — Local LLM Multi-Agent System
+### 🧩 Signature Build — Local AI Studio Multi-Agent System
 
-> The project that best represents how I think: agentic, reusable, production-oriented.
+> The project that best represents how I think: agentic, reusable, learned from the ground up.
 
-A locally-orchestrated multi-agent architecture built on the **Claude API**, using **LangChain** and **LlamaIndex** for retrieval and tool-routing between specialized agents. Each agent is memory-anchored with a defined trigger and role — planner, executor, retriever, critic — designed to be **reusable across domains** rather than rebuilt per use case. This same architectural pattern powers the client-facing systems I build under Shunrya.
+A locally-orchestrated multi-agent architecture I built inside my own Local AI Studio, on the **Claude API**, using **LangChain** and **LlamaIndex** for retrieval and tool-routing between specialized agents. Each agent is memory-anchored with a defined trigger and role — planner, executor, retriever, critic — designed to be **reusable across domains** rather than rebuilt per use case. This is the architecture I'm now applying to real early client work.
 
 `Claude API` `LangChain` `LlamaIndex` `Python` `Vector Retrieval` `Agent Orchestration`
 
@@ -131,15 +133,14 @@ Engineered an end-to-end cloud ingestion and orchestration platform for big-data
 
 ---
 
-### 💼 Shunrya — Independent AI Consulting
+### 🚀 Early Client Work — Testing the Consulting Path
 
-**Shunrya** is my consulting practice, where portfolio meets production. I design and deploy:
+I'm exploring turning my AI skills into a consulting practice, and I'm starting the way I think anyone should: with small, real projects instead of big claims.
 
-- 🔗 **Multi-agent LLM pipelines** — memory-anchored agent systems with defined triggers and roles, built on the Claude API
-- ⚙️ **Automation workflows** — Make.com and n8n orchestration connecting agents to real business outcomes
-- 🖥️ **Local LLM systems** — retrieval-augmented, self-hosted architectures for clients who need data control
+- 🖥️ **Custom software build** — took a project from requirements to a working delivered tool, applying the same agentic/automation thinking from my Local AI Studio to a real use case
+- 🌐 **Website build** — designed and built a site end to end, from concept to deployment
 
-Every Shunrya engagement is a live client deliverable — proof that these systems work outside a notebook.
+These are early, deliberately small steps — proof that I can carry an idea from "what if" to something a person can actually use, before scaling up to bigger consulting engagements.
 
 ---
 
@@ -162,7 +163,7 @@ I approach ML systems with a product mindset — AARRR & HEART frameworks, PRDs,
 
 ### 💬 Let's Build at Scale
 
-I'm actively interviewing for **AI Engineer** and **Data Engineer** roles (remote/hybrid) and currently deepening my expertise through **Anthropic AI courses**. If you're building agentic systems, LLM infrastructure, or ML platforms — let's talk.
+I'm actively interviewing for **AI Engineer** and **Data Engineer** roles (remote/hybrid), deepening my expertise through **Anthropic AI courses**, and taking on small early projects as I explore AI consulting. If you're building agentic systems, LLM infrastructure, or ML platforms — let's talk.
 
 <p align="center">
   <a href="mailto:diivyasha@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
