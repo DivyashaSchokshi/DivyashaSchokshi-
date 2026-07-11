@@ -1,4 +1,4 @@
-# DivyashaSchokshi-<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Divyasha+S.+Chokshi+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Multi-Agent+Systems+Builder;Founder+%40+Shunrya+%E2%80%94+AI+Consulting;Building+with+Claude%2C+LangChain+%26+LlamaIndex" alt="Typing SVG" />
 </h1>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/divyashaschokshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:divyashaschokshi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:diivyasha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Actively%20Interviewing-FFBE0B?style=flat-square&logo=statuspage&logoColor=white" />
 </p>
 
@@ -30,7 +30,7 @@ My work sits at the intersection of three things most ML portfolios treat separa
 - ⚙️ **Automation Infrastructure** — Make.com / n8n pipelines that turn agent output into deployed, revenue-generating products
 
 📍 New Jersey, USA — open to **remote / hybrid** roles only.
-🎯 Currently pursuing the **Anthropic Fellows Program** and interviewing for **AI Engineer / Data Engineer** roles.
+🎯 Currently pursuing **Anthropic AI courses** and interviewing for **AI Engineer / Data Engineer** roles.
 
 ---
 
@@ -152,24 +152,20 @@ I approach ML systems with a product mindset — AARRR & HEART frameworks, PRDs,
 
 ---
 
-### 📈 GitHub Activity
+### 📈 Learning Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyashaSchokshi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyashaSchokshi&theme=radical&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyashaSchokshi&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="./anthropic-learning-stats.svg" width="560"/>
 </p>
 
 ---
 
 ### 💬 Let's Build at Scale
 
-I'm actively interviewing for **AI Engineer** and **Data Engineer** roles (remote/hybrid) and pursuing the **Anthropic Fellows Program**. If you're building agentic systems, LLM infrastructure, or ML platforms — let's talk.
+I'm actively interviewing for **AI Engineer** and **Data Engineer** roles (remote/hybrid) and currently deepening my expertise through **Anthropic AI courses**. If you're building agentic systems, LLM infrastructure, or ML platforms — let's talk.
 
 <p align="center">
-  <a href="mailto:divyashaschokshi@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:diivyasha@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/divyashaschokshi"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
