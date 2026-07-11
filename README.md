@@ -154,9 +154,71 @@ I approach ML systems with a product mindset — AARRR & HEART frameworks, PRDs,
 
 ### 📈 Learning Journey
 
-<p align="center">
-  <img src="./anthropic-learning-stats.svg" width="560"/>
-</p>
+<svg width="560" height="430" viewBox="0 0 560 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a2f6b"/>
+      <stop offset="100%" stop-color="#1e63c9"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#eef1f6" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- outer card -->
+  <g filter="url(#cardShadow)">
+    <rect x="20" y="20" width="520" height="390" rx="18" fill="#ffffff"/>
+  </g>
+
+  <!-- grid background inside card body -->
+  <clipPath id="bodyClip">
+    <rect x="20" y="150" width="520" height="260" rx="0"/>
+  </clipPath>
+  <rect x="20" y="150" width="520" height="260" fill="url(#grid)" clip-path="url(#bodyClip)"/>
+
+  <!-- header -->
+  <path d="M20 38 Q20 20 38 20 H522 Q540 20 540 38 V150 H20 Z" fill="url(#headerGrad)"/>
+
+  <text x="52" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Unleashing my full</text>
+  <text x="52" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">potential by upskilling!</text>
+  <text x="52" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#cfe0fb">with Scaler's Data Science &amp; ML Program</text>
+
+  <!-- name row -->
+  <text x="52" y="185" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="0.5" fill="#4b5563">Divyasha S Chokshi</text>
+  <line x1="205" y1="180" x2="508" y2="180" stroke="#e5e9f0" stroke-width="1"/>
+
+  <!-- stat 1: daily streak -->
+  <circle cx="66" cy="238" r="18" fill="#fff4e5"/>
+  <text x="66" y="245" font-size="20" text-anchor="middle">🔥</text>
+  <text x="98" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8a93a3">DAILY STREAK</text>
+  <text x="98" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e63c9">52</text>
+
+  <!-- stat 2: problems solved -->
+  <circle cx="316" cy="238" r="18" fill="#e8f2ff"/>
+  <text x="316" y="245" font-size="16" text-anchor="middle">&lt;/&gt;</text>
+  <text x="348" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8a93a3">PROBLEMS SOLVED</text>
+  <text x="348" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e63c9">1769</text>
+
+  <!-- stat 3: contest rank -->
+  <circle cx="66" cy="316" r="18" fill="#fff8e0"/>
+  <text x="66" y="323" font-size="18" text-anchor="middle">⭐</text>
+  <text x="98" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8a93a3">CONTEST RANK</text>
+  <text x="98" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e63c9">2</text>
+
+  <!-- stat 4: attendance -->
+  <circle cx="316" cy="316" r="18" fill="#e8f2ff"/>
+  <text x="316" y="323" font-size="16" text-anchor="middle">✅</text>
+  <text x="348" y="306" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8a93a3">ATTENDANCE</text>
+  <text x="348" y="330" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1e63c9">100%</text>
+
+  <!-- footer -->
+  <line x1="52" y1="368" x2="508" y2="368" stroke="#eef1f6" stroke-width="1"/>
+  <text x="52" y="392" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#9aa3b2">Join me on this extraordinary learning journey with</text>
+  <text x="404" y="392" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="800" fill="#0a2f6b">Scaler</text>
+</svg>
 
 ---
 
