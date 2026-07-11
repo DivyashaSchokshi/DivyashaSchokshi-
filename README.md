@@ -57,7 +57,6 @@ A locally-orchestrated multi-agent architecture I built inside my own Local AI S
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logo=llama&logoColor=white"/>
 </p>
@@ -72,7 +71,6 @@ A locally-orchestrated multi-agent architecture I built inside my own Local AI S
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </p>
 
 ---
@@ -122,7 +120,7 @@ Engineered an end-to-end cloud ingestion and orchestration platform for big-data
 
 | Project | Focus | Stack |
 |---|---|---|
-| 🎯 **Target** — SQL Macro-Operations | Queried a 100K+ item retail warehouse using window functions and multi-stage joins | `BigQuery` `MySQL` `Window Functions` |
+| 🎯 **Target** — SQL Macro-Operations | Queried a 100K+ item retail warehouse using window functions and multi-stage joins | `MySQL` `Window Functions` |
 | 📦 **Delhivery** — Feature Engineering Pipeline | Rolled up noisy telemetry into production-grade delivery tables validated against OSRM | `Pandas` `IQR` `One-Hot Encoding` |
 | 🚲 **Yulu** — Hypothesis Testing Infrastructure | ANOVA, Chi-Square & t-tests to isolate environmental drivers of micro-mobility demand | `SciPy Stats` `ANOVA` |
 | 🛒 **Walmart** — CLT & Confidence Intervals | Simulated Central Limit Theorem behavior over skewed Black Friday transaction data | `SciPy` `CLT Simulations` |
@@ -144,12 +142,9 @@ These are early, deliberately small steps — proof that I can carry an idea fro
 
 ---
 
-### 🎯 Product & Cross-Functional Range
-
-I approach ML systems with a product mindset — AARRR & HEART frameworks, PRDs, sprint planning, and clean developer handoffs.
+### 🎯 Product Thinking
 
 - 🥇 Contest-winning performance in a **Product Management for Software Engineers** competition
-- 🛠️ Comfortable across the full loop: PRDs → Jira sprints → Figma concepts → engineering handoff
 
 ---
 
